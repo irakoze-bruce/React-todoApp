@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import TodoContainer from "./functionBased/components/TodoContainer"
+import TodoContainer from "./classBased/components/TodoContainer"
 import './functionBased/App.css'
 
 ReactDOM.render(
